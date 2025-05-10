@@ -46,11 +46,15 @@
   </a>
 </p>
 
+---
+
 ### 🌐 Social Media
 <p align="left">
 <a href="https://fb.com/kaveesha dulanjani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveesha dulanjani" height="30" width="40" /></a>
 <a href="https://instagram.com/kaveesha_dulanjani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveesha_dulanjani" height="30" width="40" /></a>
 </p>
+
+---
 
 ## Github Activity ✔
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveedula19&theme=monokai)
